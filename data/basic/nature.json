@@ -19,7 +19,6 @@
   "Conformist",
   "Jester",
   "Pedagogue",
-  "Pedagogue",
   "Traditionalist",
   "Avant-Garde",
   "Conniver",
@@ -53,5 +52,6 @@
   "Child",
   "Fanatic",
   "Masochist",
-  "Rebel"
+  "Rebel",
+  "Explorer"
 ]
